@@ -7,5 +7,5 @@ I am Tuyen,
 - 👯 I’m looking to collaborate on machine learning and data related fields
 - 💬 Ask me about anything :)
 - 📫 How to reach me: tuyenvquang@gmail.com
-- 😄 Pronouns: Be flexible
+- :cyclone: Mindset: open, flexible and relative
 - ⚡ Fun fact: :D
